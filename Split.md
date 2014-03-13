@@ -1,4 +1,4 @@
-
+```
 USE [db_name]
 GO
 
@@ -36,4 +36,4 @@ BEGIN
 
 	Return
 END
-'''
+```
