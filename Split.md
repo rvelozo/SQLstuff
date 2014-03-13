@@ -1,7 +1,4 @@
-Split
------
-Splits strings at a separator
-'''
+
 USE [db_name]
 GO
 
